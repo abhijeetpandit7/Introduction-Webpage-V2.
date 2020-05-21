@@ -1,0 +1,39 @@
+body{
+  background-color : #feffdb;
+}
+hr{
+  border-style : dotted none none;
+  border-width: 10px;
+  border-color: #66BFBF;
+  width: 10%;
+}
+h1{
+  color: #120136;
+  font-family: verdana;
+  font-variant: small-caps;
+}
+h2{
+  font-variant: small-caps;
+  color: #22A39F;
+}
+.font{
+  font-family: Comfortaa;
+  line-height: 2;
+}
+.list{
+  color:grey;
+}
+.default{
+  color: black;
+  font-variant: small-caps;
+}
+a:link{
+  /*Unvisited link*/
+  color: #0d7377;
+}
+a:hover{
+  color:red;
+}
+a:visited{
+  color: #1b1b2f;
+}
